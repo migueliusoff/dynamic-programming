@@ -6,7 +6,7 @@ Here I'm solving different tasks using DP.
 
 ## Tasks
 
-### "Strong" grosshopper
+### 1. "Strong" grosshopper
 
 #### What the task about?
 You have N columns equidistant from each other. Each column has its value. Value can be called in a lot different ways(coin, price, etc.).
